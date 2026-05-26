@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" rx="100" fill="#060608"/>
+  <rect width="512" height="512" rx="100" fill="url(#g)"/>
+  <defs>
+    <radialGradient id="g" cx="30%" cy="30%">
+      <stop offset="0%" stop-color="#1aff8c" stop-opacity="0.25"/>
+      <stop offset="100%" stop-color="#060608" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <!-- Sound wave bars - equalizer icon -->
+  <rect x="156" y="196" width="36" height="120" rx="18" fill="#1aff8c" opacity="0.5"/>
+  <rect x="216" y="156" width="36" height="200" rx="18" fill="#1aff8c" opacity="0.75"/>
+  <rect x="276" y="176" width="36" height="160" rx="18" fill="#1aff8c"/>
+  <rect x="336" y="216" width="36" height="80" rx="18" fill="#1aff8c" opacity="0.5"/>
+  <!-- Headphone arc -->
+  <path d="M 140 256 A 116 116 0 0 1 372 256" stroke="#ffffff" stroke-width="20" fill="none" opacity="0.12" stroke-linecap="round"/>
+</svg>
